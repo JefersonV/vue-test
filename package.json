@@ -10,6 +10,7 @@
     "start": "serve dist -s -n -L -p $PORT"
   },
   "dependencies": {
+    "serve": "^14.2.1",
     "vue": "^3.3.4"
   },
   "devDependencies": {

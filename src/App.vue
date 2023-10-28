@@ -12,10 +12,10 @@ const apiUrl = import.meta.env.VITE_BACKEND_URL;
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
-    <h2>Variable de entorno</h2>
+    <h2>Prueba de variable de entorno</h2>
     <p>{{ apiUrl }}</p>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <HelloWorld msg="Proyecto de Pedro en Vue" />
 </template>
 
 <style scoped>
